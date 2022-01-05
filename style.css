@@ -22,7 +22,7 @@ body {
 }
 @media (min-width: 768px) {
   .container {
-    max-width: 655px;
+    max-width: 635px;
     width: auto;
   }
 }
