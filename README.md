@@ -41,8 +41,6 @@ Users should be able to:
 - Mobile-first workflow
 - [Stylus](https://stylus-lang.com/)
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 
 ## Author
 
